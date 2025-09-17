@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tweshajindal
-- 👀 I’m interested in the business line
-- 🌱 I’m currently learning CSS and other computer languages like Python, java
+- 👀 I’m interested in AI, software, technology.
+- 🌱 I ahve learnt HTML, CSS, C and currently learning C++, Python, Python with dsa and opps.
 - 💞️ I’m looking to collaborate on Google and Microsoft
 - 📫 How to reach me through this id
 - 😄 Pronouns: she
