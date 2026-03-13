@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Tweshajindal
-- 👀 I’m interested in AI, software, technology.
-- 🌱 I ahve learnt HTML, CSS, C and currently learning C++, Python, Python with dsa and opps.
-- 💞️ I’m looking to collaborate on Google and Microsoft
-- 📫 How to reach me through this id
-- 😄 Pronouns: she
+# Hi there 👋 I'm Twesha Jindal
+
+🎓 B.Tech CSE Student  
+💻 Learning Python, NumPy, Pandas & DSA  
+🤖 Interested in Artificial Intelligence and Machine Learning  
+📚 Currently building Python projects to improve problem-solving skills  
+
+Welcome to my GitHub profile where I share my coding projects and learning journey.
 - https://github.com/raga-ai-hub/agentneo
   
 
